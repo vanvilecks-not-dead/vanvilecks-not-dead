@@ -1,4 +1,4 @@
-## Hi there 👋
+~~ Hiiiii
 
 <!--
 **vanvilecks-not-dead/vanvilecks-not-dead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
